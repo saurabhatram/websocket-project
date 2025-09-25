@@ -40,8 +40,10 @@ npm install
 
 3. Start the server:
 ```bash
-npm start
+npm run dev
 ```
+
+To make it work through github codespaces you can also do that, First run the backend setup and then in the url for port 8080 there is the url redirected to some VM url, copy this new url and paste it in frontend server url and then just follow the steps mentioned above. 
 
 ## Technologies Used
 
